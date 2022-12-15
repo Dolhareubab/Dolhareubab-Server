@@ -1,4 +1,4 @@
-package com.gmc.trading.tool.flip;
+package com.good.hareubang.tool.server;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
